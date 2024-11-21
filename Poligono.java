@@ -1,4 +1,4 @@
-//Comentario 1
+
 package poliformismopoligonos;
 
 public abstract class Poligono {
