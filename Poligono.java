@@ -1,4 +1,4 @@
-//CAmbios
+
 package poliformismopoligonos;
 
 public abstract class Poligono {
